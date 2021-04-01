@@ -1,4 +1,4 @@
-##  Chongbo Tang
+# Chongbo Tang
 <img src="https://github.com/tangcb26/cse100LabOne/blob/main/myphoto/myphoto.jpg" width="285" height="343">
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.**
 
