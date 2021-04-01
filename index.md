@@ -1,5 +1,5 @@
 # Chongbo Tang
-![myphoto](https://github.com/tangcb26/tangcb26.github.io/blob/main/tree.jpg)
+![tree](https://github.com/tangcb26/tangcb26.github.io/blob/main/tree.jpg)
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.** <br/> 
 
 My favorite movie is [Interstellar.](https://www.imdb.com/title/tt0816692/)
