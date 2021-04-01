@@ -19,6 +19,10 @@ I also have a list of things I wanted to do, I completed some of them, and look 
 - [x] remain a perfect GPA
 - [ ] meet a girl I like
 - [ ] graduate successfully 
+- [ ] find an intern
+- [ ] find a job
+- [ ] get married
+- [ ] have a baby
 
 
 *Using Github is cool. I learned how to use Github today, and I'm loving it!* <br/>
