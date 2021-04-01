@@ -7,8 +7,8 @@ One line from this movie that I love the most is
 > We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.
 
 *Using Github is cool. I learned how to use Github today, and I'm loving it!* <br/>
-~~I love the process of trying different things~~ <br/>
-**Especially the _styling test_ here** <br/>
+~~I love the process of trying different things.~~ <br/>
+**Especially the _styling test_ here.** <br/>
 
 
 
