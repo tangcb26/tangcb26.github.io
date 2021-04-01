@@ -1,5 +1,5 @@
 ##  Chongbo Tang
-![Image](https://github.com/tangcb26/cse100LabOne/blob/main/myphoto/myphoto.jpg=250x250) 
+<img src="https://github.com/tangcb26/cse100LabOne/blob/main/myphoto/myphoto.jpg" width="100" height="100">
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.**
 
 You can use the [editor on GitHub](https://github.com/tangcb26/tangcb26.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
