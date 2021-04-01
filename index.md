@@ -2,7 +2,7 @@
 <img src="https://github.com/tangcb26/cse100LabOne/blob/main/myphoto/myphoto.jpg" width="285" height="343"> \
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.**\
 
-My favorite movie is [Interstellar./](https://www.imdb.com/title/tt0816692/)
+My favorite movie is [Interstellar.](https://www.imdb.com/title/tt0816692/)
 One line from this movie that I love the most is 
 > We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.
 
