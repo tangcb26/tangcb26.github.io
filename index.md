@@ -24,7 +24,10 @@ I also have a list of things I wanted to do, I completed some of them, and look 
 - [ ] get married
 - [ ] have a baby
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 *Using Github is cool. I learned how to use Github today, and I'm loving it!* <br/>
 ~~I love the process of trying different things.~~ <br/>
 **Especially the _styling test_ here.** <br/>
