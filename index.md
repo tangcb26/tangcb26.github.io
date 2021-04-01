@@ -1,5 +1,5 @@
 # Chongbo Tang
-[link down](#Chongbo-Tang)
+
 
 ![tree](https://raw.githubusercontent.com/tangcb26/tangcb26.github.io/700d0b2ce21e2f15cd579bc03cd7aa52413fdebe/tree.jpg)
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.** <br/> 
@@ -38,4 +38,4 @@ Do you know what's the output?<br/>
 
 This [relative link](README.md) will link to my README file. <br/>
 
-
+[link up](#Chongbo-Tang)
