@@ -6,7 +6,13 @@ My favorite movie is [Interstellar.](https://www.imdb.com/title/tt0816692/)
 One line from this movie that I love the most is 
 > We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Using Github is cool. I learned how to use Github today, and I'm loving it!*
+~~I love the process of trying different things~~
+**Especially the _styling test_ here**
+
+
+
+
 
 ### Markdown
 
