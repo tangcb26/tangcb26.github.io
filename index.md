@@ -1,5 +1,5 @@
 ##  Chongbo Tang
-![Image](\C:\Users\87291\Desktop\ucsdSpring2021\cse110)
+![Image](C:\Users\87291\Desktop\ucsdSpring2021\cse110\photo.jpg)
 **Hi, this is Chongbo Tang. I'm a third year computer sicence student at UCSD.**
 
 You can use the [editor on GitHub](https://github.com/tangcb26/tangcb26.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
